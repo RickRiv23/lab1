@@ -171,3 +171,14 @@ li,a{
     font-weight: bold;
     color: #ea4f4c;
 }
+
+#csumb{
+    margin: 0px auto;
+}
+#googleForm{
+    border-radius: 3px;
+    width: 90%;
+    min-width: 300px;
+    display: inline-flex;
+    justify-content: center;
+}
