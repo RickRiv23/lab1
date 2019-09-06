@@ -4,7 +4,7 @@ body{
     margin: 0;
     padding: 0;
     width: 100%;
-    height: 100vm;
+    height: 100vh;
     background: linear-gradient(45deg, #ea4f4c 0%, #6d0019 100%);
 }
 main{
@@ -15,10 +15,11 @@ main{
 }
 footer{
     padding-bottom: 30px;
-    float: left;
+    /*float: left;*/
+    text-align: center;
     clear: both;
     position: relative;
-    margin: 0px 40%;
+    margin: 0px auto;
     width: 280px;
     color: brightgreen;
 }
