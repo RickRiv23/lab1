@@ -31,7 +31,7 @@ li,a{
 .logoWrapper{
     display: inline-flex;
     width: 80%;
-    min-width: 250px;
+    width: 250px;
 }
 .logo{
     text-align: left;
