@@ -8,6 +8,7 @@ body{
     background: linear-gradient(45deg, #ea4f4c 0%, #6d0019 100%);
 }
 main{
+    max-width: 1130px;
     width: 80%;
     margin: 0px 10%;
     margin-bottom: 10px;
