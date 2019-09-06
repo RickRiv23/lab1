@@ -182,3 +182,15 @@ li,a{
     display: inline-flex;
     justify-content: center;
 }
+
+.welcomeText{
+    background-color: #222;
+    color: #ea4f4c;
+    box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
+    border-radius: 3px;
+    padding: 10px 50px;
+    margin: 20px auto;
+    min-width: 300px;
+    max-width: 750px;
+    text-align: left;
+}
